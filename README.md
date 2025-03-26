@@ -1,11 +1,5 @@
-# Plutocracy
+
 #### Personal Finance Management System
-
-##### Submission project for Technohack Hackathon 2021 under the Spoon theme Personal Finance Management System.
-
-<center>
-	<a target='_blank' href='https://plutocracy.herokuapp.com/plutocracy/swagger-ui.html'>CLICK HERE TO VIEW API DOCS (Deployed Swagger-UI)</a>
-</center>
 
 ## Tech Stack Used 
 * Java 15
